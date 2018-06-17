@@ -80,5 +80,5 @@ Please note that since we can not predict every possible product, category, and/
 
 <hr>
 
-These posting guidelines were updated on June 10, 2018, and are being continuously developed by our community. Feel free to suggest any opinions on how to make Steemhunt a cooler ranking community. You can join our [Discord Chat](https://discord.gg/mWXpgks) and make suggestions.
+These posting guidelines were updated on June 17, 2018, and are being continuously developed by our community. Feel free to suggest any opinions on how to make Steemhunt a cooler ranking community. You can join our [Discord Chat](https://discord.gg/mWXpgks) and make suggestions.
 
