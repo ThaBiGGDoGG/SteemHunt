@@ -19,9 +19,8 @@ Steemhunt generally covers unique IT or hardware products, including:
 ## 3. Product Link
 We only accept these four product links:
 1. Official product website
-2. Major app store link (AppStore, PlayStore, etc)
-3. Crowdfunding sites (Kickstarter, Indiegogo, etc)
-4. Github, Bitbucket repositories for open source proejcts
+2. Crowdfunding sites (Kickstarter, Indiegogo, etc)
+
 
 We do not accept any other product links including e-commerce sites ( e.g. Amazon, ebay, etc.), affiliate marketing sites (e.g. Canopy, Awesome Invention, etc.), newspaper or blog articles, and social media posts, etc.
 
@@ -40,8 +39,6 @@ Write a short description and hunter’s comment with your own words. Do not cop
 ## 6. Post "New" Products
 Steemhunt is about cool "new" products. Please make sure that your hunt is something recently introduced. If the product is not new, there must be a strong reason to post. For example, the product must be substantially updated or upgraded in a way that has a positive effect on users. Even though the set period of time to define whether it is newly launched is subjective, the moderators may ask if the product is widely considered to be a “new product” (or substantially updated).
 
-## 7. Post “Cool” Products
-In Steemhunt, the coolness is decided by hunter’s upvotes. If many people think that a product is really cool, then the ranking is likely to be higher than other products. However, all products that are hunted in the first place should be somewhat cooler than other products. When a hunter decides to introduce the product to our community, it must not be a generic product. It should have some killer features that make people say “wow.” If your product is considered to be ordinary, the moderators may hide your hunt.
 
 ## 8. Quality of the Post
 As a hunter, you need to post a cool product with well-structured comments and screenshots so that the users can see the benefit of the product quickly without needing to check the products website. Your post will be hidden if you:
@@ -65,7 +62,6 @@ When it comes to a maker/brand, they usually have main and sub product. Steemhun
 ## 11. Games
 There are countless games worldwide, and many of them have narrow target customers. If we accept all new games in Steemhunt, our ranking board may be dominated by games. So, Steemhunt will only accept games that are:
 * downloadable/purchasable from major app stores or console game markets
-* run on their own website
 * a game platform itself, rather than a single game inside the platform.
 
 These specific types of games will not be acceptable:
